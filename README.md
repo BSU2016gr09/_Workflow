@@ -168,3 +168,7 @@ x(n+1) = XOR(tmp,tmp<<c) ;
 * void init_array(int **,int,int)
 * void print_array(int **,int,int)
 * void free_array(int **,int,int)
+
+## задание на 16.02
+
+Прочитать, скачать себе и ** распечатать ** хорошее краткое объяснение указателей с адреса http://www.math.spbu.ru/user/dlebedin/ncpp4.pdf
