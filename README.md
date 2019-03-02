@@ -193,10 +193,10 @@ x(n+1) = XOR(tmp,tmp<<c) ;
 **Прототипы функций:**     
 
 * void give_memory(int**&, int, int)//первый способ. Подумайте, почему обязательно надо тут &
-* int** give_memory(int, int)//второй способ
+* int** give_memory(int, int)//второй способ. Подумайте, можно ли и безопасно ли тут напісать int**& give_memory
 * void init_array(int **,int,int)
 * void print_array(int **,int,int)
-* void free_array(int **,int,int)
+* void free_array(int **,int)
 
 ## задание на 16.02
 
